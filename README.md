@@ -1,2 +1,3 @@
-# NYtimesScraper
-Trying out Soup
+# Scraping News Articles
+
+Beautiful Soup Nice!
