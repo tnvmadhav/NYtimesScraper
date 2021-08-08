@@ -1,0 +1,2 @@
+# NYtimesScraper
+Trying out Soup
